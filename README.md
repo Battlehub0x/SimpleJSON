@@ -20,7 +20,7 @@ SimpleJSONUnity is a Unity extension for the SimpleJSON framework. It does only 
 
 ## Installation
 
-The easiest way to install is to download and open the [Installer Package](https://package-installer.glitch.me/v1/installer/OpenUPM/com.bunny83.simplejson?registry=https%3A%2F%2Fpackage.openupm.com&scope=com.bunny83)
+The easiest way to install is to download and open the [Installer Package](https://package-installer.glitch.me/v1/installer/OpenUPM/com.bunny83.simplejson?registry=https%3A%2F%2Fpackage.openupm.com&scope=net.battlehub)
 
 It runs a script that installs Package Utils via a scoped registry.
 
