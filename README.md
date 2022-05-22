@@ -1,6 +1,6 @@
 # Simple JSON
 
-[![openupm](https://img.shields.io/npm/v/com.bunny83.simplejson?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.bunny83.simplejson/)
+[![openupm](https://img.shields.io/npm/v/com.bunny83.simplejson?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/net.battlehub.simplejson/)
 [![GitHub issues](https://img.shields.io/github/issues/Battlehub0x/SimpleJSON)](https://github.com/Battlehub0x/SimpleJSON/issues)
 [![GitHub license](https://img.shields.io/github/license/Battlehub0x/SimpleJSON?label=license)](https://github.com/Battlehub0x/SimpleJSON/blob/main/LICENSE)
 
@@ -20,7 +20,7 @@ SimpleJSONUnity is a Unity extension for the SimpleJSON framework. It does only 
 
 ## Installation
 
-The easiest way to install is to download and open the [Installer Package](https://package-installer.glitch.me/v1/installer/OpenUPM/com.bunny83.simplejson?registry=https%3A%2F%2Fpackage.openupm.com&scope=net.battlehub)
+The easiest way to install is to download and open the [Installer Package](https://package-installer.glitch.me/v1/installer/OpenUPM/net.battlehub.simplejson?registry=https%3A%2F%2Fpackage.openupm.com&scope=net.battlehub)
 
 It runs a script that installs Package Utils via a scoped registry.
 
